@@ -1,5 +1,8 @@
 # PROJETO BLUE BANK - LAMBDA
 
+Aplicação desenvolvida para complementar o projeto Blue Bank.
+
+
 ### 📑 Tecnologias utilizadas
 
 - Spring Boot (Maven e JDK 11)
